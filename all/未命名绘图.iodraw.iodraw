@@ -24,6 +24,9 @@
         <mxCell id="w5oBKYUa8fS1_mgztEDE-4" value="手掌检测器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="180" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="w5oBKYUa8fS1_mgztEDE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w5oBKYUa8fS1_mgztEDE-6" target="w5oBKYUa8fS1_mgztEDE-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="w5oBKYUa8fS1_mgztEDE-6" value="手掌矩阵框" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="260" width="120" height="50" as="geometry" />
         </mxCell>
@@ -35,6 +38,9 @@
         </mxCell>
         <mxCell id="w5oBKYUa8fS1_mgztEDE-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="455" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w5oBKYUa8fS1_mgztEDE-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.651;entryY=0.072;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="w5oBKYUa8fS1_mgztEDE-1" target="w5oBKYUa8fS1_mgztEDE-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
