@@ -20,7 +20,7 @@
           <mxGeometry x="590" y="155" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="w5oBKYUa8fS1_mgztEDE-9" value="裁剪图像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="390" width="150" height="60" as="geometry" />
+          <mxGeometry x="440" y="400" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w5oBKYUa8fS1_mgztEDE-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="455" y="490" width="120" height="60" as="geometry" />
